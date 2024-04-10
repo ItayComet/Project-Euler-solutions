@@ -1,2 +1,2 @@
-This repository contains solutions to problems from https://projecteuler.net/ by me, Itay Shavit.\n
-Some older ones are not well document, a problem which will be fixed soon.
+This repository contains solutions to problems from https://projecteuler.net/ by me, Itay Shavit.<br/>
+Some older files are not well documented, a problem which will be fixed soon.
